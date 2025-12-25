@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "내가 모르게(Don't Let Me Know)",
+  "base_artist": "iKON",
+  "createdAt": "2025-12-25T05:37:47.855677Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "내가 네게 (Whisper)",
+      "artist": "Girls' Generation - TTS",
+      "has_synced": true,
+      "path": "select/01_내가_네게_(Whisper)_Girls'_Generation_-_TTS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "내가 네게 (Whisper)",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": true,
+      "path": "select/02_내가_네게_(Whisper)_Girls'_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "내가 웃고 있어요",
+      "artist": "Brown Eyed Girls",
+      "has_synced": false,
+      "path": "select/03_내가_웃고_있어요_Brown_Eyed_Girls.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "내가 아니야 Wasn't Me",
+      "artist": "BEAST",
+      "has_synced": false,
+      "path": "select/04_내가_아니야_Wasn't_Me_BEAST.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "내가 아니야 (It’s Not Me)",
+      "artist": "Beast",
+      "has_synced": false,
+      "path": "select/05_내가_아니야_(It’s_Not_Me)_Beast.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "내가 너무 아파",
+      "artist": "티아라",
+      "has_synced": false,
+      "path": "select/06_내가_너무_아파_티아라.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ddu ddu ddu [내가 뭘 어쩌겠니?]",
+      "artist": "Moon Byul",
+      "has_synced": true,
+      "path": "select/07_ddu_ddu_ddu_[내가_뭘_어쩌겠니_]_Moon_Byul.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "내가 네게 (Whisper)",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": true,
+      "path": "select/08_내가_네게_(Whisper)_Girls'_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "내가 돌아 (Nega Dola)",
+      "artist": "BoA",
+      "has_synced": false,
+      "path": "select/09_내가_돌아_(Nega_Dola)_BoA.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "내가 돌아 NEGA DOLA",
+      "artist": "Boa",
+      "has_synced": false,
+      "path": "select/10_내가_돌아_NEGA_DOLA_Boa.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "내가 날 모르는 것처럼 - 2019 Ver.",
+      "artist": "Yerin Baek",
+      "has_synced": true,
+      "path": "select/11_내가_날_모르는_것처럼_-_2019_Ver._Yerin_Baek.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "내가 날 모르는 것처럼 (2019 ver.)",
+      "artist": "백예린",
+      "has_synced": true,
+      "path": "select/12_내가_날_모르는_것처럼_(2019_ver.)_백예린.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Whisper (내가 네게)",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": true,
+      "path": "select/13_Whisper_(내가_네게)_Girls'_Generation-TTS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "그 대신 내가 (Beside)",
+      "artist": "TVXQ",
+      "has_synced": true,
+      "path": "select/14_그_대신_내가_(Beside)_TVXQ.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "그 대신 내가 (Beside)",
+      "artist": "TVXQ!",
+      "has_synced": true,
+      "path": "select/15_그_대신_내가_(Beside)_TVXQ!.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "내가 네게 Whisper",
+      "artist": "Girls' Generation-TTS",
+      "has_synced": true,
+      "path": "select/16_내가_네게_Whisper_Girls'_Generation-TTS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "DON'T LET ME KNOW - KR Ver.",
+      "artist": "iKON",
+      "has_synced": false,
+      "path": "select/pl_01_DON'T_LET_ME_KNOW_-_KR_Ver._iKON.txt"
+    }
+  ]
+}
